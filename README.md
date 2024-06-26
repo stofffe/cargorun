@@ -43,4 +43,3 @@ cargorun bin game -- --release
 -->
 cargo run --bin game --release
 ```
-# cargorun
