@@ -8,8 +8,8 @@ import (
 
 var rootCmd = &cobra.Command{
 	Use:   "cargorun",
-	Short: "Rust example runner",
-	Long:  `Program for running cargo examples`,
+	Short: "runner for cargo projects",
+	Long:  `runner for cargo examples and binaries with autocompletion`,
 }
 
 func Execute() {
