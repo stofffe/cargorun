@@ -1,6 +1,6 @@
 package main
 
-import "cargorun/cmd"
+import "github.com/stofffe/cargorun/cmd"
 
 func main() {
 	cmd.Execute()

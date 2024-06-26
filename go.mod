@@ -1,4 +1,4 @@
-module cargorun
+module github.com/stofffe/cargorun
 
 go 1.20
 

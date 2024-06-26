@@ -1,10 +1,11 @@
 package cmd
 
 import (
-	"cargorun/core"
 	"fmt"
 	"log"
 	"os"
+
+	"github.com/stofffe/cargorun/core"
 
 	"github.com/spf13/cobra"
 )
