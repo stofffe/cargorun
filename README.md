@@ -2,6 +2,14 @@
 
 cargorun is a simple command line tool for running cargo projects with shell completions
 
+## Installing
+
+### Go
+Run the following command to download the binary using ```go install```
+```zsh
+go install github.com/stofffe/cargorun@latest
+```
+
 ## Shell completion setup
 
 ### Zsh
